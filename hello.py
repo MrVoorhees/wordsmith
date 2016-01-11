@@ -6,3 +6,4 @@ print ("Hello World")
 #Hey there tiger
 #coding is fun
 #yay computer science
+print ("NM, don't eat me. I dont like being dead.")
